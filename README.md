@@ -1,7 +1,7 @@
 ## Olá 
 
 - 🌱 Estudando Javascript
-- 😄 Pronouns: ele/dele
+
 
 <div>
   <a href="https://github.com/David0770">
