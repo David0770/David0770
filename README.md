@@ -1,6 +1,9 @@
 ## Olá 
 
-- 🌱 Estudando Javascript
+- 🥳20 anos
+-🎓formado em Sistemas Para Internt
+- 📚estudando front-end
+- 🧑‍💻Aberto a oportunidades 
 
 
 <div>
