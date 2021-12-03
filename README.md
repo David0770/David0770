@@ -1,4 +1,4 @@
-## Olá Bem vindo(a)
+## Olá, Bem vindo(a)
 
 - 🥳20 anos
 - 🎓formado em Sistemas Para Internet
