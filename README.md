@@ -1,7 +1,7 @@
 ## Olá 
 
 - 🥳20 anos
--🎓formado em Sistemas Para Internt
+- 🎓formado em Sistemas Para Internt
 - 📚estudando front-end
 - 🧑‍💻Aberto a oportunidades 
 
