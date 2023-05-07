@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Meu nome é David e atualmete estou estudando Javascript
+
 <!--
 **David0770/David0770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
