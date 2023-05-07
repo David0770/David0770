@@ -2,7 +2,7 @@
 
 Meu nome é David e atualmete estou estudando Javascript
 
-- 🔭 Atualmente estou trabalhando em...
+- 🔭 Atualmente estou trabalhando em projetos pessoais
 - 🌱 Atualmente estou aprendendo JavaScript e React
 - 👯 Procuro colaborar em projetos Frontend com Javascript/React
 - 🤔 Estou procurando ajuda com React
